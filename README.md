@@ -8,19 +8,6 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-## 🎯 Overview
-
-The **Attack and Defense CTF Platform** is a modern, full-stack web application built for hosting competitive cybersecurity events. It provides a complete ecosystem for running Attack-Defense style CTF competitions with real-time scoring, team management, and comprehensive administrative controls.
-
-![img6](screenshots/image6.png)
-![img3](screenshots/Image3.png)
-![img4](screenshots/Image4.png)
-![img1](screenshots/Image1.png)
-![img2](screenshots/Image2.png)
-![img5](screenshots/Image5.png)
-
-
-
 ### 🌟 Core Functionalities
 
 - **🏆 Real-time Scoring System** – Dynamic point calculation with multiple scoring mechanisms
